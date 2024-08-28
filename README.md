@@ -9,7 +9,7 @@ In this project, we focus on understanding the reasons behind product returns an
 
 ## Business Context
 
-Product returns pose a significant challenge for retailers, leading to substantial financial losses. In 2023, U.S. retailers faced $743 billion in merchandise returns, accounting for 14.5% of total sales[^1^][1]. For every $1 billion in sales, the average retailer incurs $145 million in returns[^1^][1]. Additionally, return fraud contributes to $101 billion in losses annually[^1^][1]. These statistics highlight the importance of understanding and mitigating product returns to improve profitability.
+Product returns pose a significant challenge for retailers, leading to substantial financial losses. In 2023, U.S. retailers faced $743 billion in merchandise returns, accounting for 14.5% of total sales [1]. For every $1 billion in sales, the average retailer incurs $145 million in returns[^1^][1]. Additionally, return fraud contributes to $101 billion in losses annually [1]. These statistics highlight the importance of understanding and mitigating product returns to improve profitability.
 
 ## Methodology
 
@@ -31,7 +31,7 @@ We used a logistic and random forest classifier model to predict product returns
 
 ### Temporal Data Splitting
 
-To ensure our model's predictions are valid and applicable in real-world scenarios, we suggest splitting the data into training and testing sets based on different time periods. This approach mimics the real-life situation where future data is unknown at the time of model training. For more details on splitting temporal data, refer to this important read [^2^][2].
+To ensure our model's predictions are valid and applicable in real-world scenarios, we suggest splitting the data into training and testing sets based on different time periods. This approach mimics the real-life situation where future data is unknown at the time of model training. For more details on splitting temporal data, refer to this important read [2].
 
 ## Discussion
 
@@ -39,6 +39,6 @@ By focusing on the business use case of understanding and predicting product ret
 
 ## References
 
-[^1^][1]: [NRF and Appriss Retail Report: $743 Billion in Merchandise Returned in 2023](https://nrf.com/media-center/press-releases/nrf-and-appriss-retail-report-743-billion-merchandise-returned-2023)
+[1]: [NRF and Appriss Retail Report: $743 Billion in Merchandise Returned in 2023](https://nrf.com/media-center/press-releases/nrf-and-appriss-retail-report-743-billion-merchandise-returned-2023)
 
-[^2^][2]: [How (and why) to create a good validation set](https://www.fast.ai/posts/2017-11-13-validation-sets.html)
+[2]: [How (and why) to create a good validation set](https://www.fast.ai/posts/2017-11-13-validation-sets.html)
