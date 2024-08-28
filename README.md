@@ -9,7 +9,7 @@ In this project, we focus on understanding the reasons behind product returns an
 
 ## Business Context
 
-Product returns pose a significant challenge for retailers, leading to substantial financial losses. In 2023, U.S. retailers faced $743 billion in merchandise returns, accounting for 14.5% of total sales [1]. For every $1 billion in sales, the average retailer incurs $145 million in returns[^1^][1]. Additionally, return fraud contributes to $101 billion in losses annually [1]. These statistics highlight the importance of understanding and mitigating product returns to improve profitability.
+Product returns pose a significant challenge for retailers, leading to substantial financial losses. In 2023, U.S. retailers faced $743 billion in merchandise returns, accounting for 14.5% of total sales [1]. For every $1 billion in sales, the average retailer incurs $145 million in returns [1]. Additionally, return fraud contributes to $101 billion in losses annually [1]. These statistics highlight the importance of understanding and mitigating product returns to improve profitability.
 
 ## Methodology
 
